@@ -1,0 +1,56 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myapp-dev-152430-authRole",
+      "UnauthRoleArn": "arn:aws:iam::665099039963:role/amplify-myapp-dev-152430-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::665099039963:role/amplify-myapp-dev-152430-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-myapp-dev-152430-deployment",
+      "UnauthRoleName": "amplify-myapp-dev-152430-unauthRole",
+      "StackName": "amplify-myapp-dev-152430",
+      "StackId": "arn:aws:cloudformation:ap-south-1:665099039963:stack/amplify-myapp-dev-152430/65bfbeb0-b9a9-11ed-a18c-0601900d0d0a",
+      "AmplifyAppId": "d1ore0q1tux92w"
+    },
+    "categories": {
+      "auth": {
+        "myappb62036c7": {}
+      }
+    }
+  },
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myapp-staging-152749-authRole",
+      "UnauthRoleArn": "arn:aws:iam::665099039963:role/amplify-myapp-staging-152749-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::665099039963:role/amplify-myapp-staging-152749-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-myapp-staging-152749-deployment",
+      "UnauthRoleName": "amplify-myapp-staging-152749-unauthRole",
+      "StackName": "amplify-myapp-staging-152749",
+      "StackId": "arn:aws:cloudformation:ap-south-1:665099039963:stack/amplify-myapp-staging-152749/dbd64e20-b9a9-11ed-820e-069b2be8e1c2",
+      "AmplifyAppId": "d1ore0q1tux92w"
+    },
+    "categories": {
+      "auth": {
+        "myappb62036c7": {}
+      }
+    }
+  },
+  "mainprod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myapp-mainprod-153128-authRole",
+      "UnauthRoleArn": "arn:aws:iam::665099039963:role/amplify-myapp-mainprod-153128-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::665099039963:role/amplify-myapp-mainprod-153128-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-myapp-mainprod-153128-deployment",
+      "UnauthRoleName": "amplify-myapp-mainprod-153128-unauthRole",
+      "StackName": "amplify-myapp-mainprod-153128",
+      "StackId": "arn:aws:cloudformation:ap-south-1:665099039963:stack/amplify-myapp-mainprod-153128/5f016820-b9aa-11ed-b0af-0252150bd4ba",
+      "AmplifyAppId": "d1ore0q1tux92w"
+    },
+    "categories": {
+      "auth": {
+        "myappb62036c7": {}
+      }
+    }
+  }
+}
